@@ -1,2 +1,2 @@
-# Ola Mundo
- Priemiro repositorio no git\github
+# Olá,Mundo
+ Primeiro repositorio do cursso de git\github
